@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./silvae00baehgoog_0007.png"; bbox 0 0 2534 3960; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 118 520 1180 660">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 118 520 1180 660">
+     <span class='ocr_line' id='line_1_1' title="bbox 118 520 1180 660; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 118 525 188 656; x_wconf 90' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 226 520 704 658; x_wconf 80' lang='lat' dir='ltr'>PAPINIUS</span> <span class='ocrx_word' id='word_1_3' title='bbox 752 521 1180 660; x_wconf 74' lang='lat' dir='ltr'><strong>STATIUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 578 979 721 1046">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 578 979 721 1046">
+     <span class='ocr_line' id='line_1_2' title="bbox 578 979 721 1046; baseline -0.007 -1"><span class='ocrx_word' id='word_1_4' title='bbox 578 979 673 1046; x_wconf 85' lang='lat' dir='ltr'>VOL.</span> <span class='ocrx_word' id='word_1_5' title='bbox 695 981 721 1044; x_wconf 90' lang='grc' dir='ltr'><strong>Ι.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 288 1899 940 1970">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 288 1899 940 1970">
+     <span class='ocr_line' id='line_1_3' title="bbox 288 1899 940 1970; baseline -0.008 1"><span class='ocrx_word' id='word_1_6' title='bbox 288 1942 292 1948; x_wconf 77' lang='lat'>,</span> <span class='ocrx_word' id='word_1_7' title='bbox 358 1901 615 1970; x_wconf 79' lang='lat' dir='ltr'>AEMILIUS</span> <span class='ocrx_word' id='word_1_8' title='bbox 646 1899 940 1968; x_wconf 79' lang='lat' dir='ltr'><strong>BAEHRENS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 323 3155 972 3369">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 323 3155 972 3369">
+     <span class='ocr_line' id='line_1_4' title="bbox 337 3155 761 3270; baseline -0.019 -35"><span class='ocrx_word' id='word_1_9' title='bbox 337 3263 341 3270; x_wconf 22' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_10' title='bbox 534 3155 761 3231; x_wconf 77' lang='lat' dir='ltr'>LIPSIAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 323 3307 972 3369; baseline -0.009 -1"><span class='ocrx_word' id='word_1_11' title='bbox 323 3313 370 3369; x_wconf 87' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 397 3311 594 3368; x_wconf 81' lang='lat' dir='ltr'>AEDIBUS</span> <span class='ocrx_word' id='word_1_13' title='bbox 621 3311 652 3366; x_wconf 91' lang='lat' dir='ltr'><strong>B.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 677 3309 709 3366; x_wconf 79' lang='lat' dir='ltr'><strong>G.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 733 3307 972 3364; x_wconf 77' lang='lat' dir='ltr'>TEUBNERI.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1270 3960">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1270 3960">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1270 3960; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1270 3960; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
